@@ -1,0 +1,14 @@
+# Runtime files only — content goes to git
+memory/history.jsonl
+memory/HISTORY.md.bak
+memory/.cursor
+memory/.dream_cursor
+memory/chats/
+memory/lab_state.json
+sessions/
+/*
+!memory/
+!SOUL.md
+!USER.md
+!memory/MEMORY.md
+!.gitignore
