@@ -12,3 +12,4 @@ sessions/
 !USER.md
 !memory/MEMORY.md
 !.gitignore
+!config.example.json
